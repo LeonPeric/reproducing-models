@@ -18,9 +18,10 @@ ILSVRC-2010 uses a subset of ImageNet with 1,000 object categories and roughly 1
 | **AlexNet (Reproduction)**   | **39.88%**   | **18.71%**   |
 ---
 
-## Graphs of Loss and accuracy
+## Graphs
 ![Loss Curve](imgs/Train_Val%20Loss.png "Loss Curve")
-![Loss Curve](imgs/Train_Val%20Top%201%20Accuracy.png "Loss Curve")
+![Acc Curve](imgs/Train_Val%20Top%201%20Accuracy.png "Accuracy Curve")
+![Kernels](imgs/conv1_kernels.png "Kernels")
 
 
 Source:  
